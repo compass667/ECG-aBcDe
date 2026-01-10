@@ -1,5 +1,6 @@
 # ECG-aBcDe
 ECG-aBcDe: Overcoming Model Dependence, Encoding ECG into a Universal Language for any LLM
+<img width="2465" height="1165" alt="overview-new1" src="https://github.com/user-attachments/assets/80a02265-fb8f-450e-a872-f2f133ee7711" />
 
 编码后数据集可通过 https://pan.baidu.com/s/1yvT6GwWgiYeEyWpJEkzu4w?pwd=v68t 下载
 如果您在研究或应用中使用了我们的数据或方法，请引用以下论文：
